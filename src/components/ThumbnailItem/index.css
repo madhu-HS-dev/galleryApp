@@ -1,0 +1,12 @@
+/* Write your code here. */
+
+.thumbnail-image {
+  width: 100px;
+  cursor: pointer;
+  outline: none;
+}
+
+button {
+  background-color: transparent;
+  border-width: 0px;
+}
